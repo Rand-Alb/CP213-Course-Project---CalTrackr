@@ -1,3 +1,4 @@
+// new comment
 /**
  * @author David Brown
  * @version 2025-11-19
@@ -7,6 +8,7 @@
  **/
 public class Food
 {
+	// one line comment
 	private String name;
 	private int calories;
 
